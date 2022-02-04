@@ -1,0 +1,28 @@
+.header {
+  text-align: center;
+  margin: auto;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  padding: 10px;
+}
+
+#increment-btn {
+  padding: 10px;
+  font-weight: bold;
+  background-color: brown;
+  color: white;
+  border-radius: 10px;
+  width: 120px;
+}
+
+#save-btn {
+  padding: 10px;
+  margin-top: 10px;
+  background-color: green;
+  color: white;
+  border-radius: 10px;
+  width: 100px;
+}
