@@ -1,6 +1,9 @@
 .header {
   text-align: center;
   margin: auto;
+  position: relative;
+  top: 50%;
+  color: red;
 }
 
 .container {
