@@ -6,7 +6,7 @@ let count = 0;
 
 function increment (){ // Makes the Increment button work
     count ++; 
-    countEl.textContent = count // Prints the rext on the screen
+    countEl.textContent = count // Prints the text on the screen
 }
 
 function save(){ // Makes the save button work
