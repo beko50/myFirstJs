@@ -18,9 +18,9 @@ function save(){ // Makes the save button work
 
 //Below is a code that prints out greetings on a dashboard using JS
 
-/* let welcomeEl = document.getElementById("welcome-el")
+let welcomeEl = document.getElementById("welcome-el")
 
 let name = "Bernard!"
 let greeting = "Welcome to your dashboard, "
 
-welcomeEl.innerText = greeting + name */  
+welcomeEl.innerText = greeting + name 
